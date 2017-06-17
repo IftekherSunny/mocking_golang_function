@@ -1,4 +1,4 @@
-package mocking_golang_function
+package example
 
 ////////////////////////////////////////////
 // Define payment process type
